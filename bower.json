@@ -1,0 +1,20 @@
+{
+  "name": "alwizo",
+  "description": "alwizo",
+  "main": "gulpfile.js",
+  "authors": [
+    "alwizo <alwizo.com@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alwizo/gulp.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
